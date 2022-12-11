@@ -1,0 +1,302 @@
+a:link,:visited
+{
+    color: black;
+    text-decoration: none;
+}
+a:hover
+{
+    color: blueviolet;
+    text-decoration: none;
+}
+#img1
+{
+    width: 101%;
+    height: 100%;
+    object-fit: cover;
+    position:relative;
+    z-index: 1;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+#container
+{
+    border: none;
+    position: absolute;
+    z-index: 2;
+    top: 20px;
+    left: 20px;
+    width: 1855px;
+    height: 4620px;
+}
+#Titre
+{
+    border: 2px solid rgb(176, 17, 216);
+    border-radius : 20px;
+    display: block;
+    padding-left: 115px;
+    padding-bottom: 40px;
+    font-size: 500%;
+    background-color: rgb(176, 17, 216);
+    color: white;
+    margin-top: 20px;
+    margin-left: 700px;
+    margin-right: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 20px;
+}
+#bar_lien
+{
+    border: none;
+    margin-top: -140px;
+    margin-left: 715px;
+    margin-right: 715px;
+    font-size: 170%;
+    position: absolute;
+    z-index: 3;
+    opacity: 0%;
+}
+#bar
+{
+    border: none;
+    margin-top: -140px;
+    margin-left: 715px;
+    margin-right: 715px;
+    font-size: 170%;
+    position: absolute;
+    z-index: 2;
+    color: white;
+}
+#description
+{
+    border: none;
+    margin-right: 580px;
+    display: block;
+    color: black;
+    margin-top: 100px;
+    font-size: 150%;
+    z-index: 2;
+    font-family: cursive;
+}
+#explications
+{
+    border: none;
+    display: block;
+    color: black;
+    margin-top: 30px;
+}
+#Titre_explication
+{
+    border: none;
+    display: block;
+    color: black;
+    font-size: 200%;
+    font-weight: bold;
+}
+#cactus
+{
+    width: 30%;
+    height: 18%;
+    object-fit: cover;
+    position:relative;
+    z-index: 1;
+    margin-left: 1375px;
+    margin-top: -375px;
+}
+#rentrer_dans_le_club
+{
+    border: none;
+    font-size: 150%;
+    font-family: cursive;
+}
+#titre_rentrer
+{
+    margin-top: 50px;
+    margin-left: 0px;
+    border: none;
+    display: block;
+    color: black;
+    font-size: 200%;
+    font-weight: bold;
+}
+#MOPA_ref
+{
+    border: none;
+    color: red;
+    opacity: 70%;
+    position: relative;
+}
+#lien_bs
+{
+    border: none;
+    color: red;
+    opacity: 70%;
+    position: relative;
+}
+#lien_bs:hover
+{
+    color: blueviolet;
+}
+#lien_support
+{
+    color: white;
+    margin-top: -140px;
+    margin-left: 715px;
+    margin-right: 715px;
+    font-size: 170%;
+    position: absolute;
+}
+#lien_support:hover
+{
+    color: black;
+}
+#lien_soutien
+{
+    color: white;
+    margin-top: -140px;
+    margin-left: 830px;
+    margin-right: 715px;
+    font-size: 170%;
+    position: absolute;
+}
+#lien_soutien:hover
+{
+    color: black;
+}
+#Titre_Discord
+{
+    border: none;
+    display: block;
+    color: black;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#Discord
+{
+    border: none;
+    font-size: 150%;
+    font-family: cursive;
+    z-index: 1;
+}
+#Discord_ref
+{
+    border: none;
+    color: red;
+    opacity: 70%;
+    position: relative;
+}
+#Discord_ref:hover
+{
+color: blueviolet;
+}
+.btn
+{
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    position: fixed;
+    z-index: 4;
+    display: flex;
+    cursor: pointer;
+}
+#fleche_img
+{
+    width: 50px;
+}
+#réseau
+{
+    border: none;
+    font-size: 150%;
+    font-family: cursive;
+    margin-top: -100px;
+}
+#Titre_réseau
+{
+    border: none;
+    display: block;
+    color: black;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+#img_Discord
+{
+    width: 300px;
+    object-fit: cover;
+    position:relative;
+    z-index: 1;
+    margin-left: 1100px;
+    margin-top: -200px;
+}
+#img_ytb
+{
+    width: 400px;
+    object-fit: cover;
+    position:relative;
+    z-index: 1;
+    margin-left: 1100px;
+    margin-top: -200px;
+}
+#youtube
+{
+    margin-top: 10px;
+}
+#kewa
+{
+    border: none;
+    font-size: 150%;
+    font-family: cursive;
+    margin-top: -100px;
+}
+#Titre_kewa
+{
+    color: black;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+#réseau_K
+{
+    margin-top: 50px;
+}
+#Titre_réseau_k
+{
+    color: black;
+    font-size: 120%;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 50px;
+}
+#bar
+{
+    margin-top: 200px;
+    margin-left: 00px;
+    width: 60%;
+    border-radius: 15px;
+    background-color: #C0BDBD;
+}
+.competence
+{
+    border-radius: 15px;
+    text-align: left;
+    color: white;
+    padding: 2px;
+}
+.html
+{
+    width: 90%;
+    background-color: blueviolet;
+    animation: progHTML 5s;
+    animation-iteration-count: 1;
+}
+@keyframes progHTML
+{
+    0%{width: 10%;}
+    100%{width: 90%;}
+}

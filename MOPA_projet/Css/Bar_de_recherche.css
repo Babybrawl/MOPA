@@ -1,0 +1,279 @@
+#container
+{
+    border: none;
+    width: auto;
+    height: 10000px;
+    top: auto;
+    left: auto;
+}
+#Titre
+{
+    border: 2px solid rgb(176, 17, 216);
+    border-radius : 20px;
+    display: block;
+    padding-left: 85px;
+    padding-bottom: 15px;
+    font-size: 500%;
+    background-color: rgb(176, 17, 216);
+    color: white;
+    margin-top: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 20px;
+}
+#rejoindre
+{
+    margin-top: 200px;
+    margin-left: 10px;
+    border: none;
+    font-size: 250%;
+    font-family: cursive;
+    font-weight: bold;
+}
+#conditions_titre
+{
+    width: auto;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 70px;
+    border: none;
+    font-size: 170%;
+    font-family: cursive;
+}
+#conditions
+{
+    width: auto;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 20px;
+    border: none;
+    font-size: 150%;
+    font-family: cursive;
+}
+#methode1
+{
+    border: none;
+    margin-top: 200px;
+    margin-left: auto;
+    font-size: 250%;
+    font-family: cursive;
+    font-weight: bold;
+}
+#retour
+{
+    background-color: grey;
+    border: 2px solid grey;
+    width: 80px;
+    height: 30px;
+    margin-top: -100px;
+    margin-left: 0px;
+    font-size: 140%;
+    font-family: cursive;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    color: white;
+}
+a:link,:visited
+{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    color : blueviolet;
+}
+#image1
+{
+    border: none;
+    margin-top: -190px;
+    margin-left: 1000px;
+    width: 800px;
+}
+#MOPA_ref
+{
+    border: none;
+    color: red;
+    opacity: 70%;
+    position: relative;
+}
+#E1
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 170px;
+}
+#E1²
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 15px;
+    margin-left: 400px;
+}
+#E2
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 120px;
+    margin-left: 900px;
+}
+#img2
+{
+    width: 40px;
+    top: 5px;
+}
+#E2²
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 20px;
+    margin-left: 1300px;
+}
+#img3
+{
+    border: none;
+    margin-top: -200px;
+    margin-left: 20px;
+    width: 800px;
+}
+#E2²²
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+#E3
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 160px;
+    margin-left: 40px;
+}
+#E3²
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+#img4
+{
+    border: none;
+    margin-top: -180px;
+    margin-left: 1000px;
+    width: 800px;
+}
+#E
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 15px;
+    margin-left: 1200px;
+}
+#E2_
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 170px;
+    margin-left: 900px;
+}
+#E1_
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+#discord
+{
+    border: none;
+    font-size: 120%;
+    font-family: cursive;
+}
+#Titre_discord
+{
+    border: none;
+    font-size: 220%;
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+#img_D1
+{
+    border: none;
+    width: 250px;
+    margin-top: -150px;
+    margin-left: 220px;
+}
+#ED
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 200px;
+    margin-left: 800px;
+}
+#ED2
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 300px;
+    margin-left: 150px;
+}
+#img_D2
+{
+    border: none;
+    width: 500px;
+    margin-top: -250px;
+    margin-left: 1200px;
+}
+#img_D3
+{
+    border: none;
+    width: 500px;
+    margin-top: -350px;
+    margin-left: 100px;
+}
+#ED3
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 250px;
+    margin-left: 800px;
+}
+#ED4
+{
+    border: none;
+    font-size: 180%;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-left: 800px;
+}
+.btn
+{
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    position: fixed;
+    z-index: 4;
+    display: flex;
+    cursor: pointer;
+}
+#fleche_img
+{
+    width: 50px;
+}
